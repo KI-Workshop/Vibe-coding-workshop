@@ -9,7 +9,7 @@ Das **Lern-Quiz Studio** ist eine Single-Page-Application (SPA), die als univers
 
 ### Modus 1: Erstellen (AI-Chat & Generator)
 Dies ist die Einstiegsseite der Anwendung (entspricht Screenshot 1).
-*   **Zentrale Benutzeroberfläche:** Eine große Karte bietet Schnellstart-Optionen: „Foto von Buchseite“, „PDF-Inhalt kopieren“, „Thema eingeben“ und „Lückentext erstellen“.
+*   **Zentrale Benutzeroberfläche:** Eine große Karte bietet Schnellstart-Optionen: „Foto von Buchseite“, „PDF-Inhalt kopieren“, „Thema eingeben“ und „Lückentext erstellen“. Stell sicher, dass der Benutzer Dateien in verschiedenen Formaten (Bilder, PDFs, Word, Excel usw.) anhängen kann.
 *   **KI-Interaktion:** Am unteren Bildschirmrand befindet sich eine Chat-Leiste („Nachricht an Quiz-Assistent...“). Hier können Nutzer Materialien hochladen oder Anweisungen geben.
 *   **Automatischer Workflow:** Sobald die KI (z. B. Gemini) einen Test generiert hat, wird dieser im Hintergrund als **JSON-Objekt** strukturiert und automatisch in den **Bearbeiten-Modus** übertragen.
 
