@@ -10,7 +10,7 @@
 
 **•    LISTE der Schüler auf dem Bildschirm ANZEIGEN (Schüler 1, Schüler 2 ...)**
 
-**•    Schaltfläche „Schuler auswählen”**
+**•    Schaltfläche „Schüler auswählen”**
 
 **•    Anzeige des Ergebnisses mit Animation**
 
