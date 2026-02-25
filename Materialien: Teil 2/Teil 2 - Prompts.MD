@@ -37,7 +37,7 @@ Am Ende zeige die Ergebnisse und ein Feedback:
 A. Generieren Sie den vollständigen HTML-Code.  
 B. Mach den Test im Markdown-Format.
 
-Prompts – detaillierter Ansatz
+# Prompts – detaillierter Ansatz
 
 Erstelle eine interaktive HTML-Seite für einen Test auf der Grundlage des beigefügten Textes.
 
