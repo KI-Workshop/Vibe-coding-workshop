@@ -10,7 +10,7 @@
 
 **•    LISTE der Schüler auf dem Bildschirm ANZEIGEN (Schüler 1, Schüler 2 ...)**
 
-**•    Schaltfläche „Roulette drehen”**
+**•    Schaltfläche „Schuler auswählen”**
 
 **•    Anzeige des Ergebnisses mit Animation**
 
