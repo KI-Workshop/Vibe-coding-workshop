@@ -135,7 +135,7 @@ Generiere den vollständigen HTML-Code.
 
 Erstelle eine Quiz-App mit 10 Multiple-Choice-Fragen zu diesem Text. Mit Fortschrittsanzeige, Score-Tracking und Auswertung am Ende. Die Fragen sollen verschiedene Schwierigkeitsgrade haben: 2 einfache, 3 mittlere und 5 schwere.
 
-Bespiel 2: fertigen Test digital darstellen
+## Bespiel 2: fertigen Test digital darstellen
 
 Ich habe einen fertigen Test zum Lernmaterial. Die richtigen Antwortvarianten sind mit einem grünen Häkchen markiert. 
 
